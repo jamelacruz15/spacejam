@@ -19,7 +19,6 @@ window.onbeforeunload = function () {
     window.scrollTo(0, 0);
 }
 
-
 //typewriter
 var typed = new Typed("#typewriter", {
     strings: ["I'm Jamela Cruz"],
