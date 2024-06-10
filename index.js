@@ -20,7 +20,6 @@ window.onbeforeunload = function () {
 }
 
 
-
 //typewriter
 var typed = new Typed("#typewriter", {
     strings: ["I'm Jamela Cruz"],
