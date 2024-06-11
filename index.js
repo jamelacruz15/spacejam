@@ -26,7 +26,7 @@ var typed = new Typed("#typewriter", {
     loop: true
 })
 
-// contact
+// contact form with google sheet
 const scriptURL = 'https://script.google.com/macros/s/AKfycbyUggNqPo1y4odqme3pVgpqdGkprsJV0A2EqoYwlq9aGooEtoSjlSMsR2mgQL9Bp0Xn/exec'
 const form = document.forms['submit-to-google-sheet']
 const resmessages = document.getElementById("resmessages")
